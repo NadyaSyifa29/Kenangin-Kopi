@@ -1,6 +1,6 @@
 <?php
 session_start();
-include "Utility/db.php";
+include "../Utility/db.php";
 
 $error_fullname = "";
 $error_username = "";
